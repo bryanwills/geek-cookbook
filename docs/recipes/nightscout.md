@@ -1,3 +1,6 @@
+<img width="1512" height="787" alt="image" src="https://github.com/user-attachments/assets/91a4f540-ee13-471a-8ecd-d2dd24dc14ed" />
+<img width="1512" height="787" alt="image" src="https://github.com/user-attachments/assets/4a9b0165-c035-47b9-82ea-cb57acd0a4fd" />
+<img width="1512" height="787" alt="image" src="https://github.com/user-attachments/assets/7383177d-3fc3-4386-b4aa-280a833f6339" />
 ---
 title: How to run your own Nightscout instance using Docker
 description: CGM data with an API, for diabetic quality-of-life improvements
@@ -19,7 +22,7 @@ Nightscout is "*...an open source, DIY project that allows real time access to a
 
 ![Nightscout Screenshot](../images/nightscout.png){ loading=lazy }
 
-[Nightscout](https://nightscout.github.io/) is _the_ standard for open-source CGM data collection, used by diabetics and those who love them, to store, share, and retrieve blood-glocuse data, in order to live healthier and happier lives. It's used as the data sharing/syncing backend for all the popular smartphone apps, including [xDrip+](https://github.com/NightscoutFoundation/xDrip) (*Android*) and [Spike App](https://spike-app.com/) (*iOS*).
+[Nightscout](https://nightscout.github.io/) is _the_ standard for open-source CGM data collection, used by diabetics and those who love them, to store, share, and retrieve blood-glocuse data, in order to live healthier and happier lives. It's used as the data sharing/syncing backend for all the popular smartphone apps, including [xDrip+](https://github.com/NightscoutFoundation/xDrip) (*Android*) and [Spike App](https://spike-app.com/) (*iOS*), and CGM monitoring apps like [Sugar Sense](https://sugarsense.io/) (*iOS/Android*) can connect to your Nightscout site as a glucose data source.
 
 Most NightScout users will deploy to Heroko, using MongoDB Atlas, which is a [well-documented solution](https://nightscout.github.io/nightscout/new_user/). If you wanted to run NightScout on your own Docker stack though, then this recipe is for you!
 
