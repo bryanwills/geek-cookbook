@@ -1,6 +1,3 @@
-<img width="1512" height="787" alt="image" src="https://github.com/user-attachments/assets/91a4f540-ee13-471a-8ecd-d2dd24dc14ed" />
-<img width="1512" height="787" alt="image" src="https://github.com/user-attachments/assets/4a9b0165-c035-47b9-82ea-cb57acd0a4fd" />
-<img width="1512" height="787" alt="image" src="https://github.com/user-attachments/assets/7383177d-3fc3-4386-b4aa-280a833f6339" />
 ---
 title: How to run your own Nightscout instance using Docker
 description: CGM data with an API, for diabetic quality-of-life improvements
